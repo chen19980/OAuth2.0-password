@@ -1,0 +1,7 @@
+org\example\client\CustomUser.class
+org\example\repository\OAuthDao.class
+org\example\service\CustomDetailsService.class
+org\example\config\SecurityConfiguration.class
+org\example\AppLoader.class
+org\example\config\OAuth2Config.class
+org\example\entity\UserEntity.class
